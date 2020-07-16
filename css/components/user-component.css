@@ -36,7 +36,8 @@
   border-radius: 25px;
 }
 
-.user-component__title--not-bold {
+.user-component__title--not-bold,
+friends-screen__Friends {
   font-weight: 400;
 }
 
